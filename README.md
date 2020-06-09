@@ -1,4 +1,4 @@
-# Meme Fetcher
+# Meme Fletcher
 
 Fetches random memes from an API and displays them to you.
 
